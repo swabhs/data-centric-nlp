@@ -18,16 +18,37 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Natural language processing (NLP) has been revolutionized by the advancement of deep learning, which have enabled large-scale language models. However, state-of-the-art models are still supervised via large datasets, whether labeled or not. In this survey class, we will focus on the datasets behind language technologies. Starting with dataset creation methodologies, we will survey widely used datasets in NLP, and some of their key characteristics, essential for learning. The course will describe how biases arising from creation methodologies might inadvertently lead to models that perform exceedingly well within some data distributions, but do not generalize to other distributions, as well as how these biases can be addressed. We will also explore some literature on how the quality of datasets can be estimated automatically, contextualized via data sheets, and broadly within the existing literature on data ethics. Finally, we will look at some extensions of the above concepts to unlabeled datasets, as well as datasets with modalities beyond language.
 
-## Lecture
+## Pre-Requisites
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+You must have taken undergraduate and/or graduate level classes in either Machine Learning or Natural language Processing, equivalent to CSCI 544 (Applied Natural Language Processing) or CSCI 567 (Machine learning), respectively. Please email the instructor for special circumstances or for specific clarifications.
 
-## Resources
+### Description and Assessment of Assignments
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
 
-## Assignments
+Grades will be based on paper presentations (20%), discussion (15%), and a final project (65% total).
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+
+
+##### Paper presentations (20%)
+Students will be expected to present 1-2 research papers and lead class discussion on these papers. The presentation format should ideally involve slide decks designed to help everyone in the class understand the papers. The presenter should also prepare a few discussion questions to encourage discussion after the presentation.
+
+##### Class participation (15%)
+Students are expected to participate in class discussions by not only asking questions, but also sharing their opinions on the topics under discussion. Students are also expected to turn in quiz sheets filled based on small group discussions.
+
+##### Final project (65% total)
+Students must individually or in teams of two (at maximum) complete a final research project on a topic related to the class. This project is expected to include novel research on either (1) building analytical tools for investigating large-scale datasets, or (2) replicating tools from prior research to apply on new datasets. Please come to office hours or email me if you have questions related to choosing a project direction.
+
+
+
+- <em>Project proposal (5%).</em> Students should submit a ~2-page proposal for their project by the end of Week 5. The proposal should motivate the project, and situate it within related work, to the best of the students’ abilities.
+
+- <em>Project progress report (10%).</em> Students should submit a ~5-page progress report for their project by the end of Week 10. This should once again describe the project’s goals (it is okay if this has changed since the proposal), initial results, and a concrete plan of what will be done for the final report. While the initial results might be inconclusive, students are expected to have made non-trivial progress by this point. The project proposal may be repurposed for this report.
+
+- <em>Project final presentation (20%).</em> This will be a 20-30 minute presentation during the last two / three weeks of class. If in teams of two, each student must present an equal share of the work. Students should describe the motivation for their work, relevant background material, and their own findings, as well as address audience questions.
+
+- <em>Project final report (30%).</em> Students should submit a ~8-page final report detailing all aspects of their project. The report should be structured like a conference paper, including an abstract, introduction, related work, and experiments (standard *ACL paper submission template); a tech report format is discouraged. Parts of the proposal and progress report may be reused for the final report. Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed method did not work as anticipated.
+
+All written assignments related to the final project should use the standard *ACL paper submission template.
+

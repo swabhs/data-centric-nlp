@@ -1,8 +1,8 @@
 ---
-name: Really Evil Kevin
+name: TBD
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+email: tbd@usc.edu
+website: https://swabhs.com
 photo: kevin.jpg
 ---
 
