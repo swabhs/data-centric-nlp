@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data-Centric NLP
+title: Data-Centric NLP (CSCI 699)
 tagline: CSCI 699
 description: Fall 2022
 author: Swabha Swayamdiptta
-baseurl: '/data-centric-nlp' # the subpath of your site, e.g. /blog
-url: 'https://swabhs.com' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/fall22-csci699-data-centric-nlp' # the subpath of your site, e.g. /blog
+url: 'https://swabhs.com/classes/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 # Theme settings

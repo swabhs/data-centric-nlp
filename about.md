@@ -5,8 +5,8 @@ description: >-
     Course policies and information.
 ---
 
-# About
-{:.no_toc}
+
+
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,7 +24,7 @@ Natural language processing (NLP) has been revolutionized by the advancement of 
 
 You must have taken undergraduate and/or graduate level classes in either Machine Learning or Natural language Processing, equivalent to CSCI 544 (Applied Natural Language Processing) or CSCI 567 (Machine learning), respectively. Please email the instructor for special circumstances or for specific clarifications.
 
-### Description and Assessment of Assignments
+## Assignments
 
 
 Grades will be based on paper presentations (20%), discussion (15%), and a final project (65% total).

@@ -2,8 +2,8 @@
 name: TBD
 role: Teaching Assistant
 email: tbd@usc.edu
-website: https://swabhs.com
-photo: kevin.jpg
+website:
+photo: ta.png
 ---
 
-I like teaching Computer Science!
+<!-- I like teaching Computer Science! -->

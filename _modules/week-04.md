@@ -1,21 +1,16 @@
 ---
-title: A historical view on datasets in NLP
+title: Spurious Biases and Annotation Artifacts II
 ---
 
-Aug 22
-: [Introduction](#)
-  : [Lecture](#)
+Sep 12
+: [Java & Git](#)
+  : [1.1](#)
 
-Aug 24
-: [Some other intro material](#)
-  : [Reading Materials](#)
-: [Reader](#)
-
-
-<!-- : **Section**{: .label .label-purple }[Intro to Java](#)
+Sep 14
+: **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
+<!-- Sep 30
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
@@ -26,6 +21,8 @@ Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red } -->
+
+
 
 
 

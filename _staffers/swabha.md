@@ -6,4 +6,4 @@ website: https://swabhs.com
 photo: swabha.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+<!-- [Schedule an appointment](#){: .btn .btn-outline } -->
